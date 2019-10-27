@@ -59,7 +59,7 @@ public class TweetController {
 	
     private List<Tweet> tweets = new ArrayList<>();
 
-	public List<Tweet> getTweetList() {
+	public List<Tweet> getTweets() {
        return tweets;
     }
  
@@ -74,6 +74,6 @@ public class TweetController {
     
     public String addNewPost() throws TwitterException  {
     	TweetEntity.postTweet(tweet.getTweetBody());
-    	return "tweettList.xhtml";   
+    	return "tweets.xhtml";   
     }
 }
