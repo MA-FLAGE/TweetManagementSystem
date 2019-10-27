@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\KHAMA\TweetManagementSystem\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1054950020.index
+442975119.index
+774400556.index
+193785982.index
+3171269698.index
+2566423819.index
+3367181454.index
